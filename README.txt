@@ -1,0 +1,6 @@
+- x5 ring attributes. (MagicPrefix.txt, MagicSuffix.txt)
+- no potions (or scrolls or keys) drop except rejuvs. no gold drops. improved drops. (TreasureClassEx.txt)
+- Elite and Exceptional armor/weapons have no level requirement. (armor.txt, weapons.txt)
+- Gems and Runes have no level requirement. (misc.txt)
+- nine improved runewords (Runes.txt)
+- ladder-only runewords enabled (Runes.txt)
